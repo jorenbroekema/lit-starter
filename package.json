@@ -1,0 +1,26 @@
+{
+  "name": "lit-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorenbroekema/lit-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorenbroekema/lit-starter/issues"
+  },
+  "homepage": "https://github.com/jorenbroekema/lit-starter#readme",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.0.21"
+  }
+}
